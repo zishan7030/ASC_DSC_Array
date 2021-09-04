@@ -45,10 +45,7 @@ namespace ASC_DSC_Array
                 }
             }
             Console.WriteLine("Descending Order is");
-            for (i = 0; i < 10; i++)
-            {
-                Console.WriteLine("\t{0} ",arr[i]);
-            }
+           
         }
     }
 }
